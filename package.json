@@ -1,0 +1,6 @@
+{
+  "name": "fdbms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Food Department Billing Management System that runs directly in the browser without a build step."
+}
